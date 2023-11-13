@@ -1,6 +1,6 @@
-# Piano Virtual
+# Piano Virtual - Projeto do Bootcamp Desenvolvimento de Jogos da DIO.
 
-Um simples piano virtual desenvolvido com JavaScript, HTML e CSS.
+Um simples piano virtual desenvolvido com JavaScript, HTML e CSS
 
 ## Funcionalidades
 
